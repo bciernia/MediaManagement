@@ -1,0 +1,12 @@
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Infrastructure.deps.json
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Infrastructure.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Infrastructure.pdb
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Domain.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Domain.pdb
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.pdb
