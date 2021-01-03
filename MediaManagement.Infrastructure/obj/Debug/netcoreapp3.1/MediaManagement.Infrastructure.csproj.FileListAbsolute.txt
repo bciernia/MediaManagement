@@ -10,3 +10,6 @@ C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\D
 C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.csproj.CopyComplete
 C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.dll
 C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.pdb
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Infrastructure.runtimeconfig.json
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\bin\Debug\netcoreapp3.1\MediaManagement.Infrastructure.runtimeconfig.dev.json
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Infrastructure\obj\Debug\netcoreapp3.1\MediaManagement.Infrastructure.genruntimeconfig.cache

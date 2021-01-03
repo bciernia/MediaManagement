@@ -1,4 +1,4 @@
-﻿@model MediaManagement.Web.Models.Movie
+﻿@model MediaManagement.Web.Models.Media
 
 @{
     ViewData["Title"] = "Edit";
@@ -14,7 +14,7 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group form-check">
                 <label class="form-check-label">
-                    <input class="form-check-input" asp-for="IsWatched" /> @Html.DisplayNameFor(model => model.IsWatched)
+                    <input class="form-check-input" asp-for="InLibrary" /> @Html.DisplayNameFor(model => model.InLibrary)
                 </label>
             </div>
             <div class="form-group">

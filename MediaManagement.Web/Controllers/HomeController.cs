@@ -12,7 +12,7 @@ namespace MediaManagement.Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private List<Movie> list = new List<Movie>();
+        private List<Media> list = new List<Media>();
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -31,9 +31,9 @@ namespace MediaManagement.Web.Controllers
 
         public IActionResult ShowAllMedia()
         {
-            list.Add(new Movie { Id = 1, Name = "Fast and furious",  ReleaseYear = 2010, Creator = "First", Type = "Action", IsWatched = true, IsFavourite = false });
-            list.Add(new Movie { Id = 2, Name = "Killer",  ReleaseYear = 2020, Creator = "Second", Type = "Comedy", IsWatched = false, IsFavourite=false });
-            list.Add(new Movie { Id = 3, Name = "Frozen",  ReleaseYear = 2015, Creator = "Third", Type = "Cartoon", IsWatched= true, IsFavourite=true});
+            list.Add(new Media { Id = 1, Name = "Fast and furious",  ReleaseYear = 2010, Creator = "First", InLibrary = true, IsFavourite = false });
+            list.Add(new Media { Id = 2, Name = "Killer",  ReleaseYear = 2020, Creator = "Second", InLibrary = false, IsFavourite=false });
+            list.Add(new Media { Id = 3, Name = "Frozen",  ReleaseYear = 2015, Creator = "Third", InLibrary = true, IsFavourite=true});
 
             return View(list);
         }
@@ -43,17 +43,17 @@ namespace MediaManagement.Web.Controllers
             return View();
         }
 
-        public IActionResult Edit(Movie movie)
+        public IActionResult Edit(Media movie)
         {
             return View(movie);
         }
 
-        public IActionResult Details(Movie movie)
+        public IActionResult Details(Media movie)
         {
             return View(movie);
         }
 
-        public IActionResult Delete(Movie movie)
+        public IActionResult Delete(Media movie)
         {
             return View(movie);
         }

@@ -1,4 +1,4 @@
-﻿@model IEnumerable<MediaManagement.Web.Models.Movie>
+﻿@model IEnumerable<MediaManagement.Web.Models.Media>
 
 @{
     ViewData["Title"] = "ShowAllMedia";
@@ -22,13 +22,10 @@
                 @Html.DisplayNameFor(model => model.Creator)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Type)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.ReleaseYear)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IsWatched)
+                @Html.DisplayNameFor(model => model.InLibrary)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.IsFavourite)
@@ -50,13 +47,10 @@
                     @Html.DisplayFor(modelItem => item.Creator)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Type)
-                </td>
-                <td>
                     @Html.DisplayFor(modelItem => item.ReleaseYear)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.IsWatched)
+                    @Html.DisplayFor(modelItem => item.InLibrary)
                 </td>
                 <td>
                     @if(item.IsFavourite == true)
