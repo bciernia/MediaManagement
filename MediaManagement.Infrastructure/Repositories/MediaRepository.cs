@@ -40,7 +40,7 @@ namespace MediaManagement.Infrastructure.Repositories
             if (media != null)
             {
                 _context.Remove(media);
-                _context.SaveChanges();
+                _context.SaveChanges(); 
             }
         }
 

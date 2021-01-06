@@ -15,6 +15,7 @@ namespace MediaManagement.Infrastructure
         public DbSet<MediaTag> MediaTags { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<Type> Types { get; set; }
+
         public Context(DbContextOptions options) : base(options)
         {
         }

@@ -1,0 +1,15 @@
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\bin\Debug\net5.0\MediaManagement.Application.deps.json
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\bin\Debug\net5.0\MediaManagement.Application.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\bin\Debug\net5.0\ref\MediaManagement.Application.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\bin\Debug\net5.0\MediaManagement.Application.pdb
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\bin\Debug\net5.0\MediaManagement.Domain.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\bin\Debug\net5.0\MediaManagement.Domain.pdb
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.csprojAssemblyReference.cache
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.AssemblyInfo.cs
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.csproj.CopyComplete
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\ref\MediaManagement.Application.dll
+C:\Users\Barti\source\repos\MediaManagement\MediaManagement.Application\obj\Debug\net5.0\MediaManagement.Application.pdb

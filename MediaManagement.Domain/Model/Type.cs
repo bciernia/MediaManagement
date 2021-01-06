@@ -8,9 +8,7 @@ namespace MediaManagement.Web.Models
     public class Type
     {
         public int Id { get; set; }
-        public string Game { get; set; }
-        public string Movie { get; set; }
-        public string Music { get; set; }
+        public string Name { get; set; }
 
         public virtual ICollection<Media> Medias { get; set; }
     }
